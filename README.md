@@ -8,6 +8,6 @@ Meu nome é Isabel
 
 ### Você pode entrar em contato comigo :mailbox
 
-isabel.santos19@ecola.pr.gov.br
+isabel.santos19@escola.pr.gov.br
 
-![bom dia](https://tenor.com/bjj9s.gif)
+ ![descrição do GIF](<div class="tenor-gif-embed" data-postid="16959684" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/bom-dia-ola-heart-smile-girl-gif-16959684">Bom Dia Ola GIF</a>from <a href="https://tenor.com/search/bom+dia-gifs">Bom Dia GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
